@@ -19,16 +19,16 @@ Sistema de gerenciamento de oficina mecânica desenvolvido em Python utilizando 
 ## Estrutura
 
 Sistema OficinaMecanica/
-│
-├── main.py
-├── banco.py
-├── cliente.py
-├── veiculo.py
-├── ordem_servico.py
-├── consultas.py
-├── relatorios.py
-├── constantes.py
-└── menu.py
+
+── main.py
+── banco.py
+── cliente.py
+── veiculo.py
+── ordem_servico.py
+── consultas.py
+── relatorios.py
+── constantes.py
+── menu.py
 
 ## Como executar
 
