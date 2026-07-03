@@ -48,4 +48,7 @@ Este projeto foi desenvolvido com o objetivo de praticar programação em Python
 - Exportação em PDF
 - Controle de estoque
 
+## Licença
+
+MIT
 
